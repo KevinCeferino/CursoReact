@@ -1,11 +1,11 @@
 import './App.css';
-import Contador from './components/Contador'
+import Temperatura from './components/Temperatura'
 
 function App() {
   return (
     <div className="App">
       <h1>Mi primer Proyecto</h1>
-      <Contador></Contador>
+      <Temperatura></Temperatura>
     </div>
   );
 }
